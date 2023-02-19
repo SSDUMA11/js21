@@ -1,5 +1,5 @@
 let km = prompt('Enter the distance')
-let metric=prompt('Enter the ')
+let metric=prompt('Enter the units of measurement')
 function KmToM(km){
     return km*1000 +'m';  
 }
